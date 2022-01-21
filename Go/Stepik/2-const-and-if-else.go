@@ -1,3 +1,4 @@
+// решения задач не оптимальны и лишь отражают функционал пройденного материала
 package main
 
 import ( // блочное обьявление
@@ -18,7 +19,7 @@ func main() {
 	fmt.Println(Sunday)   // вывод 0
 	fmt.Println(Saturday) // вывод 6
 
-  var a, year int
+  var a int
   // По данному трехзначному числу определить, все ли его цифры различны
   fmt.Print("Enter three-digit number: ")
 	fmt.Scan(&a)
@@ -65,6 +66,7 @@ func main() {
   }
 
   // Определить, является ли введённый год високосным
+	var year int
   fmt.Print("Enter year: ")
   fmt.Scan(&year)
   fmt.Print("Leap year: ")
