@@ -1,4 +1,3 @@
-// решения задач не оптимальны и лишь отражают функционал пройденного материала
 package main
 import "fmt"
 
@@ -15,6 +14,7 @@ func main() {
       fmt.Scan(&array[i])
   }
 */
+  fmt.Println("Enter 3 pairs of indices to replace: ")
   for i := 0; i < 3; i++ {
       fmt.Scan(&a, &b)
       // меняем значения по введённым индексам
@@ -31,7 +31,7 @@ func main() {
 	var ( max = -100000
         arrayMax = [5]int{} // по дэфолту залоняется нулями
       )
-
+  fmt.Println("Enter 5 numbers: ")
 	for i := 0; i < 5; i++ {
 		fmt.Scan(&a)
 		arrayMax[i] = a
@@ -39,7 +39,7 @@ func main() {
             max = arrayMax[i]
         }
 	}
-  fmt.Println(max)
+  fmt.Println("Max number: ", max)
 
   /* Срезы(слайсы)
       Срез состоит из: указателя на базовый масив, длины и емкости -
@@ -54,14 +54,16 @@ func main() {
   // Вывести количество положительных элементов в последовательности
   var n int
   sum := 0
+  fmt.Println("Enter slice length: ")
 	fmt.Scan(&n)
   slice := make([]int, n, n) // создание среза длинной и емкостью n
 
+  fmt.Println("Enter slice elements: ")
 	for i := range slice {
 		fmt.Scan(&slice[i])
 	}
   for i := 0; i < len(slice); i ++ { // узнать емкость - cap()
     if slice[i] > 0 { sum++ }
   }
-  fmt.Println(sum)
+  fmt.Println("Quantity positive: ", sum)
 }
