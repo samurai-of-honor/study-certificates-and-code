@@ -1,0 +1,59 @@
+/********** base styles **********/
+/********** mobile view  **********/
+* {
+  margin: 0;
+}
+
+h1 {
+  margin: 20px;
+  text-align: center;
+}
+
+div {
+  border: 1px solid black;
+  background-color: silver;
+  margin: 1%;
+  float: left;
+}
+
+.title {
+  margin-left: auto;
+  margin-right: 0px;
+  border: 1px solid black;
+  width: 80px;
+  padding: 8px 0px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.first {
+  background-color: red;
+}
+.second {
+  background-color: orange;
+}
+.third {
+  background-color: rebeccapurple;
+}
+
+.text {
+  margin: 10px;
+}
+
+/********** desktop view **********/
+@media (min-width: 992px) {
+  .col-lg-4 {
+    width: 31%;
+  }
+}
+
+/********** tablet view  **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .col-md-6 {
+    width: 47.67%;
+  }
+  .col-md-12 {
+    width: 97.67%;
+  }
+}
