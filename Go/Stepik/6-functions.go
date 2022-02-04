@@ -18,6 +18,9 @@ func main() {
   Scan(&n)
   res = fib(n)
   Println(n, "element Fibonacci:", res)
+
+  count, sum := sumInt(1, 2, 3, 4, 5, 6)
+  Printf("Amount of numbers: %d\nSum: %d\n", count, sum)
 }
 
 // Написать функцию, которая будет принимать строку и выводить её
@@ -56,4 +59,14 @@ func fib(n int) int {
     a, b = b, a + b
   }
   return a
+}
+
+// Написать функцию принимающую переменное количество int аргументов,
+// и возвращающую количество полученных аргументов и их сумму.
+func sumInt(n ...int) (counter, sum int) {
+	for _, elem := range n {
+		counter++
+    sum += elem
+	}
+  return counter, sum
 }
