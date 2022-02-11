@@ -1,0 +1,32 @@
+body {
+  background: #2aabe4;
+}
+
+#header-nav {
+  background-color: #ffcd24;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 {
+  color: #33393d;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list a {
+  color: #33393d;
+/*  border-bottom: 1px solid #E7E7E7;
+*/
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 2em;
+}
