@@ -31,6 +31,7 @@ a:hover, a:focus {
 
 .col-xs-12 {
   background: #646f6f;
+  position: relative;
   height: 800px;
   margin: 15px auto;
 }
@@ -47,6 +48,20 @@ hr {
   width: 150px;
 }
 p {
+  color: #000;
+}
+.top {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100px;
+  font-size: 1.2em;
+  text-align: center;
+  background-color: #ffcd24;
+  color: #000;
+}
+.top:hover, .top:active {
+  background-color: #E7E7E7;
   color: #000;
 }
 
