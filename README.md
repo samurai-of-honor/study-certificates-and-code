@@ -3,7 +3,7 @@
 ### Golang
 + #### [Stepik course](https://stepik.org/course/54403/)
   * [My tasks](./Go/Stepik/)
-  * Сertificate
+  * [Сertificate](./Go/Stepik/stepik-certificate.pdf)  ([Online certificate](https://stepik.org/cert/1409404))
 
 ### Frontend
 + #### [Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers/)
