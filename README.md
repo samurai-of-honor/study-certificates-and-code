@@ -16,3 +16,8 @@
 #### [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/)
   * [My tasks](./Frontend/Coursera/)
   * Сertificate
+
+## Other
+### Coursera
+#### [Teamwork Skills: Communicating Effectively in Groups](https://www.coursera.org/learn/teamwork-skills-effective-communication)
+  * [Сertificate](./Other/Coursera/communicating-in-groups.pdf)  ([Online certificate](https://www.coursera.org/account/accomplishments/verify/US8UA3Q6BN9E))
