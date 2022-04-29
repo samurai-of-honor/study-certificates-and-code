@@ -19,5 +19,8 @@
 
 ## Other
 ### Coursera
+#### [English for Science, Technology, Engineering, and Mathematics](https://www.coursera.org/learn/stem/)
+  * [Сertificate](./Other/Coursera/english-for-technology.pdf)  ([Online certificate](https://www.coursera.org/account/accomplishments/verify/YEFLWWWNWT5F))
+
 #### [Teamwork Skills: Communicating Effectively in Groups](https://www.coursera.org/learn/teamwork-skills-effective-communication)
   * [Сertificate](./Other/Coursera/communicating-in-groups.pdf)  ([Online certificate](https://www.coursera.org/account/accomplishments/verify/US8UA3Q6BN9E))
