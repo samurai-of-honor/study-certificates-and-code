@@ -9,7 +9,7 @@
 ### Coursera
 #### Cпециализация "Programming with Google Go"
   1. [Getting Started with Go](https://www.coursera.org/learn/golang-getting-started/)
-     * [Сertificate](./Go/Coursera/golang-getting-started.pdf)  ([Online certificate](https://www.coursera.org/account/accomplishments/verify/2WZR575ABGE6))
+     * [Сertificate](./Go/Coursera/getting-started/golang-getting-started.pdf)  ([Online certificate](https://www.coursera.org/account/accomplishments/verify/2WZR575ABGE6))
   2. [Functions, Methods, and Interfaces in Go](https://www.coursera.org/learn/golang-functions-methods/)
      * Сertificate  (Online certificate)
   3. [Concurrency in Go](https://www.coursera.org/learn/golang-concurrency/)
