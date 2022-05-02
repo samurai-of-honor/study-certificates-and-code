@@ -11,7 +11,7 @@
   1. [Getting Started with Go](https://www.coursera.org/learn/golang-getting-started/)
      * [Сertificate](./Go/Coursera/getting-started/golang-getting-started.pdf)  ([Online certificate](https://www.coursera.org/account/accomplishments/verify/2WZR575ABGE6))
   2. [Functions, Methods, and Interfaces in Go](https://www.coursera.org/learn/golang-functions-methods/)
-     * Сertificate  (Online certificate)
+     * [Сertificate](./Go/Coursera/functions-methods/func-methods-interfaces.pdf)  [(Online certificate)](https://www.coursera.org/account/accomplishments/verify/U7JA2EAT668D)
   3. [Concurrency in Go](https://www.coursera.org/learn/golang-concurrency/)
      * Сertificate  (Online certificate)
 
