@@ -8,18 +8,22 @@
 
 ### Coursera
 #### Cпециализация "Programming with Google Go"
+
   1. [Getting Started with Go](https://www.coursera.org/learn/golang-getting-started/)
+     * [My tasks](./Go/Coursera/getting-started/)
      * [Сertificate](./Go/Coursera/getting-started/golang-getting-started.pdf)  ([Online certificate](https://www.coursera.org/account/accomplishments/verify/2WZR575ABGE6))
   2. [Functions, Methods, and Interfaces in Go](https://www.coursera.org/learn/golang-functions-methods/)
+     * [My tasks](./Go/Coursera/functions-methods/)
      * [Сertificate](./Go/Coursera/functions-methods/func-methods-interfaces.pdf)  [(Online certificate)](https://www.coursera.org/account/accomplishments/verify/U7JA2EAT668D)
   3. [Concurrency in Go](https://www.coursera.org/learn/golang-concurrency/)
+     * My tasks
      * Сertificate  (Online certificate)
 
 ## Frontend
 ### Coursera
 #### [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/)
   * [My tasks](./Frontend/Coursera/)
-  * Сertificate
+  * [Сertificate](./Frontend/Coursera/html-css-js-for-web.pdf)  [(Online certificate)](https://www.coursera.org/account/accomplishments/verify/7TMYYNBP5NHK)
 
 ## Other
 ### Coursera
