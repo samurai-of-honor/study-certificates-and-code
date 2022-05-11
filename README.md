@@ -16,7 +16,7 @@
      * [My tasks](./Go/Coursera/functions-methods/)
      * [Сertificate](./Go/Coursera/functions-methods/func-methods-interfaces.pdf)  [(Online certificate)](https://www.coursera.org/account/accomplishments/verify/U7JA2EAT668D)
   3. [Concurrency in Go](https://www.coursera.org/learn/golang-concurrency/)
-     * My tasks
+     * [My tasks](./Go/Coursera/concurrency/)
      * Сertificate  (Online certificate)
 
 ## Frontend
