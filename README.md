@@ -7,8 +7,8 @@
   * [Сertificate](./Go/Stepik/stepik-certificate.pdf)  ([Online certificate](https://stepik.org/cert/1409404))  
 
 ### Coursera
-#### Cпециализация "Programming with Google Go"
-
+#### [Cпециализация "Programming with Google Go"](https://www.coursera.org/account/accomplishments/specialization/MC7LNP2SZ5C9)
+  * [Сertificate](./Go/Coursera/programming-with-google-go.pdf)
   1. [Getting Started with Go](https://www.coursera.org/learn/golang-getting-started/)
      * [My tasks](./Go/Coursera/getting-started/)
      * [Сertificate](./Go/Coursera/getting-started/golang-getting-started.pdf)  ([Online certificate](https://www.coursera.org/account/accomplishments/verify/2WZR575ABGE6))
@@ -17,7 +17,7 @@
      * [Сertificate](./Go/Coursera/functions-methods/func-methods-interfaces.pdf)  [(Online certificate)](https://www.coursera.org/account/accomplishments/verify/U7JA2EAT668D)
   3. [Concurrency in Go](https://www.coursera.org/learn/golang-concurrency/)
      * [My tasks](./Go/Coursera/concurrency/)
-     * Сertificate  (Online certificate)
+     * [Сertificate](./Go/Coursera/concurrency/сoncurrency-cert.pdf)  [(Online certificate)](https://www.coursera.org/account/accomplishments/verify/SAZQADAKA969)
 
 ## Frontend
 ### Coursera
