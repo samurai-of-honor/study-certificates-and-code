@@ -10,8 +10,8 @@ import (
 )
 
 func SubSort(n []int, c chan []int) {
-	fmt.Println(n)
 	sort.Ints(n)
+	fmt.Println(n)
 	c <- n
 }
 
@@ -57,60 +57,11 @@ func main() {
 	sl4 := <-c
 
 	var sorted []int
+	sorted = append(sorted, sl1...)
+	sorted = append(sorted, sl2...)
+	sorted = append(sorted, sl3...)
+	sorted = append(sorted, sl4...)
 
-	for k := 0; k < len(nums); k++ {
-		i := 0
-		j := 0
-		if len(sl1) != 0 {
-			i = sl1[0]
-			j = 1
-		}
-		if len(sl2) != 0 {
-			if j == 0 {
-				i = sl2[0]
-				j = 2
-			} else {
-				if sl2[0] < i {
-					i = sl2[0]
-					j = 2
-				}
-			}
-		}
-		if len(sl3) != 0 {
-			if j == 0 {
-				i = sl3[0]
-				j = 3
-			} else {
-				if sl3[0] < i {
-					i = sl3[0]
-					j = 3
-				}
-			}
-		}
-		if len(sl4) != 0 {
-			if j == 0 {
-				i = sl4[0]
-				j = 4
-			} else {
-				if sl4[0] < i {
-					i = sl4[0]
-					j = 4
-				}
-			}
-		}
-
-		sorted = append(sorted, i)
-		switch j {
-		case 1:
-			sl1 = sl1[1:]
-		case 2:
-			sl2 = sl2[1:]
-		case 3:
-			sl3 = sl3[1:]
-		case 4:
-			sl4 = sl4[1:]
-		}
-	}
-
+	sort.Ints(sorted)
 	fmt.Print("Result:\n", sorted)
 }
