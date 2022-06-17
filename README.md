@@ -28,8 +28,8 @@
 ## Other
 ### Coursera
 #### [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials/)
-  * Сertificate (Online certificate)
-  
+  * [Сertificate](./Other/Coursera/aws-cloud-tech.pdf) [(Online certificate)](https://coursera.org/verify/SHRNBPW7WW6K)
+
 #### [English for Science, Technology, Engineering, and Mathematics](https://www.coursera.org/learn/stem/)
   * [Сertificate](./Other/Coursera/english-for-technology.pdf)  ([Online certificate](https://www.coursera.org/account/accomplishments/verify/YEFLWWWNWT5F))
 
