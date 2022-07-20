@@ -1,6 +1,10 @@
 # My training and courses code
 
 ## Golang
+### CodeWars
+  * [Задания с 8 по 6 kyu](./Go/CodeWars/kyu6-8.go)
+    * [Тесты](./Go/CodeWars/kyu6-8_test.go)  
+
 ### Stepik
 #### [Программирование на Golang](https://stepik.org/course/54403/)
   * [My tasks](./Go/Stepik/)
